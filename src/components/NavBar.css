@@ -1,0 +1,5 @@
+.NavBarContainer {
+  padding-left: var(--header-padding);
+  padding-right: var(--header-padding);
+  height: 64px;
+}

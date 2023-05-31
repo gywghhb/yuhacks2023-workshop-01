@@ -1,0 +1,7 @@
+.UserProfile {
+  height: 35px;
+  width: 35px;
+  border-radius: 50%;
+  border: 2px dashed var(--border-hex);
+  margin-left: 1em;
+}
